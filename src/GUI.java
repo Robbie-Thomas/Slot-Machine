@@ -108,6 +108,8 @@ public class GUI extends JFrame {
             hldBtn1.setBackground(Color.LIGHT_GRAY);
             slot.setRoundsLeft(slot.getRoundsLeft() -1);
             spinLane(fruit2Blw, fruit2Middle, fruit2Abv);
+	    spinLane(fruit3Blw, fruit3Middle, fruit3Abv);
+
 
         }
         else if(isHolding2)
